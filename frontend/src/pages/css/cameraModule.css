@@ -1,0 +1,62 @@
+.camera-parent {
+    position: relative;
+}
+
+.header {
+    position: absolute;
+    top: 0rem;
+    left: 53rem;
+}
+
+.auth-heading {
+    font-size: 2.5rem;
+    color: cadetblue;
+}
+
+.camera {
+    position: absolute;
+    top: 10rem;
+    left: 40rem;
+    border-radius: 1rem;
+}
+
+.buttons {
+    position: absolute;
+    top:43rem;
+    left: 45.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.btn-ch {
+    padding-left: 2rem;
+}
+
+.btn {
+    width: 9rem;
+    height: 3.5rem;
+    border: 1px solid transparent;
+    border-radius: 1.5rem;
+    background-color: rgb(0, 208, 255);
+    color: aliceblue;
+    
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.btn:hover {
+    background-color: aquamarine;
+    color: black;
+}
+
+.snap {
+    position: absolute;
+    top: 4.5rem;
+    left: 56rem;
+}
+
+.snap-text {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: rgb(45, 238, 7);
+}

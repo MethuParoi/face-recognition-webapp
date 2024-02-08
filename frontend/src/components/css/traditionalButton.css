@@ -1,0 +1,19 @@
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tb-parent {
+    padding: 0.8rem 0;
+    font-size: 1.2rem;
+    
+}
+
+.tb-child {
+    font-size: 1.2rem;
+    color: black;
+    text-decoration: underline;
+    padding-left: .4rem;
+    cursor: pointer;
+}

@@ -1,0 +1,41 @@
+.parent-div {
+    padding: 10rem 2rem 2rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.child-div-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+.logo {
+    font-size: 5rem;
+}
+
+.header-primary {
+    font-size: 2.5rem;
+}
+
+.button-primary {
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 1rem 2rem;
+    border: 1px solid transparent;
+    border-radius: 2rem;
+    background-color: rgb(0, 208, 255);
+    color: aliceblue;
+}
+.button-primary:hover {
+    background-color: aqua;
+    color: black;
+
+}
+
+.child-div-2 {
+    padding-bottom: 1rem;
+}
